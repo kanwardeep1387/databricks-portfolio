@@ -55,3 +55,23 @@ The goal is to:
 ---
 
 ## 📂 Repository Structure
+
+---
+
+## 🚀 Progress Tracking
+- [x] Repository created and structured (GitHub + Databricks Free Edition).  
+- [ ] Phase 1 — Fundamentals (currently in progress).  
+- [ ] Phase 2 — ML/AI Foundations.  
+- [ ] Phase 3 — AI Applications.  
+- [ ] Phase 4 — Generative AI.  
+
+---
+
+## 📖 Notes
+- All projects will include **notebooks, SQL scripts, datasets, and reports**.  
+- Deliverables will be published inside each phase folder with clear documentation.  
+- Certifications will be attempted after completing each phase.  
+
+---
+
+👨‍💻 **Author:** [Kanwardeep](https://github.com/kanwardeep1387)  
